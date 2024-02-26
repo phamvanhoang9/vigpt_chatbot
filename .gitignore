@@ -1,0 +1,17 @@
+#Ignore env containing secrets
+.env
+
+#Ignore Virtual Env
+.venv/
+venv/
+
+
+#Ignore generated outputs
+outputs/
+.chroma/index/
+
+#Ignore pycache
+**/__pycache__/
+
+#Ignore mypy cache
+.mypy_cache/
