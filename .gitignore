@@ -8,10 +8,15 @@ venv/
 
 #Ignore generated outputs
 outputs/
-.chroma/index/
+.chroma/
 
 #Ignore pycache
 **/__pycache__/
 
 #Ignore mypy cache
 .mypy_cache/
+
+# Other
+dist/
+package_stevehoang.egg-info/
+```
