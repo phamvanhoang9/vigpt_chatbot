@@ -1,4 +1,4 @@
-from embeddings import PhoBertEmbeddings
+from utils.embeddings import PhoBertEmbeddings
 from langchain.vectorstores import Chroma
 
 
