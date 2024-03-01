@@ -9,7 +9,7 @@ venv/
 #Ignore generated outputs
 outputs/
 .chroma/
-
+vector_db/
 #Ignore pycache
 **/__pycache__/
 
