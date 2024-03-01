@@ -66,3 +66,11 @@ sudo python3.10 -m pip install --upgrade sqlite3
 ```bash
 python -m pip install --upgrade chromadb==0.3.29
 ```
+
+### Issue 2: AttributeError: module 'openai' has no attribute 'error'.
+
+***Solution***:
+```bash
+python -m pip install langchain==0.0.316
+python -m pip install openai==0.28.1
+```
