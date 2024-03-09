@@ -71,6 +71,6 @@ python -m pip install --upgrade chromadb==0.3.29
 
 ***Solution***:
 ```bash
-python -m pip install langchain==0.0.316
-python -m pip install openai==0.28.1
+python -m pip install langchain==0.1.1
+python -m pip install openai==1.0.1
 ```
